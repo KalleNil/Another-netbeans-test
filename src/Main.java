@@ -17,6 +17,8 @@ public class Main {
         // TODO code application logic here
         System.out.println("Testing git for netbeans");
         
+        System.out.println("Detta är en ny rad");
+        
     }
     
 }
