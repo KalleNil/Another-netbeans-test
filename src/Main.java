@@ -19,6 +19,8 @@ public class Main {
         
         System.out.println("Detta är en ny rad");
         
+        System.out.println("yttliggare en ny rad");
+        
     }
     
 }
